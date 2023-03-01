@@ -1,0 +1,108 @@
+#container {
+    padding-top: 20px;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    left: 0px; right: 0px; top: 310px;
+    position: fixed;
+  }
+.squarePink1 {
+    position: absolute;
+    background-color: pink;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    outline: 3px solid gray;
+    left: 140px;
+    top: 30px;
+}
+.squareBlue2 {
+    position: absolute;
+    background-color: blue;
+    height: 50px;
+    width: 70px;
+    text-align: center;
+    outline: 3px solid gray;
+    left: 250px;
+    top: 50px;
+}
+.squareGray3 {
+    position: absolute;
+    background-color: gray;
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    outline: 3px solid gray;
+    top: 90px;
+    left: 200px;
+}
+.squareCream4 {
+    position: absolute;
+    background-color: beige;
+    height: 80px;
+    width: 65px;
+    text-align: center;
+    outline: 3px solid gray;
+    left: 150px;
+    top: 150px;
+}
+.squareGreen5 {
+    position: absolute;
+    background-color: limegreen;
+    height: 150px;
+    width: 40px;
+    text-align: center;
+    outline: 3px solid gray;
+    top: 50px;
+    left: 200px;
+}
+
+
+
+
+h1 {
+    color: black;
+}
+#img123 {
+    width: 150px;
+    height: 150px;
+}
+body {
+    background-color: white;
+}
+#pinkBgDiv {
+    background-color: palevioletred;
+}
+#kulaDamer {
+    text-align: center;
+    padding-bottom: 10px;
+}
+#orangeRow {
+    background-color: orange;
+}
+table, th, td {
+    border: 1px solid gray;
+    border-collapse: collapse;
+    border-style: dotted;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightgreen;
+    height: 30px;
+    width: 50px;
+  }
+  #placering {
+    text-align: center;
+    background-color: lightgreen;
+  }
+  #placering1 {
+    text-align: center;
+    background-color: yellow;
+  }
+  #placering2 {
+    text-align: center;
+    background-color: gray;
+  }
+  #placering3 {
+    text-align: center;
+    background-color: brown;
+  }
